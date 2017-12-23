@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "872989828652",
+    "firebase_url": "https://notif7976687951.firebaseio.com",
+    "project_id": "notif7976687951",
+    "storage_bucket": "notif7976687951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872989828652:android:6ed5c2108c50ca52",
+        "android_client_info": {
+          "package_name": "com.example.sanyam.androidtestnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872989828652-igopklio4jeldjh2qhli0cjbdgnhv0bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB10sDrkwAPnqNKxzcxL8Tavt-8EQxyVkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
